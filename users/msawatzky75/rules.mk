@@ -2,7 +2,7 @@ SRC += msawatzky75.c
 
 LTO_ENABLE = yes
 MOUSEKEY_ENABLE = yes
-RGBLIGHT_ENABLE = yes
+RGBLIGHT_ENABLE = no
 TAP_DANCE_ENABLE = yes
 
 AUDIO_ENABLE = no
